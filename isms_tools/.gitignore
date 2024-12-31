@@ -28,3 +28,26 @@ debug.log
 .vscode/
 .idea/
 
+../.CFUserTextEncoding
+../.DS_Store
+../.cups/
+../.gitconfig
+../.lesshst
+../.psql_history
+../.viminfo
+../.zsh_history
+../.zsh_sessions/
+../Desktop/
+../Documents/
+../Downloads/
+../Library/
+../Movies/
+../Music/
+../OneDrive/
+../Pictures/
+../Public/
+../PycharmProjects/
+../debug.log
+../manage.py
+../security/
+
