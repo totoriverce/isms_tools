@@ -1,0 +1,30 @@
+# 시스템 파일 및 디렉토리
+.DS_Store
+.Trash/
+.Library/
+.Pictures/
+.Desktop/
+.Documents/
+.Downloads/
+.Music/
+.Movies/
+.Public/
+.OneDrive/
+.PycharmProjects/
+
+# Python 관련 파일
+*.pyc
+*.pyo
+*.env
+__pycache__/
+venv/
+db.sqlite3
+
+# 로그 파일
+debug.log
+
+# 기타
+*.swp
+.vscode/
+.idea/
+
